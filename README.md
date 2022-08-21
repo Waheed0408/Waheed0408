@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Waheed0408/Waheed0408/blob/main/toit.gif%22%3E
+</p>
+
 - 🔭 I’m currently working on implementing a smartwatch using Arduino.
 - 🌱 I’m currently learning CSS/HTML and Django
 - 💬 Ask me about Basic Python Coding 
