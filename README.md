@@ -3,9 +3,9 @@
   <img src="https://github.com/Waheed0408/Waheed0408/blob/main/toit.gif"
 </p>
 
-- 🔭 I’m currently working on implementing a smartwatch using Arduino.
+- 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning CSS/HTML and Django.
-- 💬 Ask me about Computer Interfacing and Architecture. 
+- 💬 Ask me about Computer Interfacing and Architecture and Basics of Python ;) 
 - 📫 How to reach me: wmoonwar@gmail.com
 - ⚡ Fun fact: She doesn't like me back TwT
 
