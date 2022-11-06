@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning CSS/HTML and Django.
 - 💬 Ask me about Computer Interfacing and Architecture and Basics of Python ;) 
 - 📫 How to reach me: wmoonwar@gmail.com
-- ⚡ Fun fact: She doesn't like me back TwT
 
 <!--
 **Waheed0408/Waheed0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
