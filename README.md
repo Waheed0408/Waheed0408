@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github.com/Waheed0408/Waheed0408/blob/main/toit.gif"
+
 </p>
 
 - 🔭 I’m currently working on nothing.
