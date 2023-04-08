@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning CSS/HTML and Django.
+- 🌱 I’m currently learning MERN Stack.
 - 💬 Ask me about Computer Interfacing and Architecture and Basics of Python ;) 
 - 📫 How to reach me: wmoonwar@gmail.com
 
